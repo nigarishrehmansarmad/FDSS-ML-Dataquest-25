@@ -1,7 +1,7 @@
 # ML Challenge-BSAI Competition - 1st Place Winning Solution
 
 ## Overview
-Thrilled to share that my teammates, Sajad Ali, Uroosha Zehra, and I secured 1st place in a prestigious machine learning competition with 26+ participating teams! This competition focused on predicting student outcomes using demographic, school, family, and assessment data from the Year 3 NAPLAN Writing test. You can visit the competition here : [Ml Challenge-BSAI](https://www.kaggle.com/competitions/ml-challenge-bsai)
+Thrilled to share that my teammates, Sajad Ali, Uroosha Zehra, and I secured 1st place in a prestigious machine learning competition with 26+ participating teams! This competition focused on predicting student outcomes using demographic, school, family, and assessment data from the Year 3 NAPLAN Writing test. You can visit the competition here : [ML Challenge-BSAI](https://www.kaggle.com/competitions/ml-challenge-bsai)
 
 ## Team Members
 - [@Sajad Ali]()
